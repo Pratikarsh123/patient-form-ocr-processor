@@ -1,0 +1,45 @@
+{
+  "patient_details": {
+    "patient_name": "W\u00a5ac% tre A Zt",
+    "dob": null
+  },
+  "treatment_details": {
+    "date": "MA Initials :",
+    "injection": "YES",
+    "exercise_therapy": "YES"
+  },
+  "difficulty_ratings": {
+    "bending_or_stooping": null,
+    "putting_on_shoes": null,
+    "sleeping": 0,
+    "standing_for_an_hour": null,
+    "stairs": null,
+    "walking_through_store": null,
+    "driving": null,
+    "preparing_meal": null,
+    "yard_work": null,
+    "picking_up_items": null
+  },
+  "patient_changes": {
+    "since_last_treatment": null,
+    "since_start_of_treatment": "",
+    "last_3_days": null
+  },
+  "pain_symptoms": {
+    "pain": null,
+    "numbness": null,
+    "tingling": 6,
+    "burning": null,
+    "tightness": null
+  },
+  "medical_assistant_data": {
+    "blood_pressure": "HR:_i i Weight _{.:3; Height\u201d",
+    "hr": null,
+    "weight": null,
+    "height": null,
+    "spo2": null,
+    "temperature": null,
+    "blood_glucose": null,
+    "respirations": null
+  }
+}
